@@ -21,6 +21,5 @@ int main() {
         int ress = N - anss / 2;
         cout << ress << "\n";
     }
-
     return 0;
 }
